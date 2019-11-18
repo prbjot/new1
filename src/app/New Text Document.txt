@@ -1,0 +1,11 @@
+ng g c mycompo
+
+
+child.component.html
+app.component.html
+app.component.ts
+{
+ensure that templateurl point app.component.html
+}
+mycompo.component.ts
+app.component.ts
